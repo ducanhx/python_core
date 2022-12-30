@@ -7,12 +7,6 @@ if a % 2 == 0:
     print(User_input[0],User_input[c],User_input[b],User_input[-1])
 else: print(User_input[0],User_input)
 
-'''Bài 2: Cho hai chuỗi s1 và s2. Viết chương trình tạo một chuỗi mới s3 bằng cách thêm s2 vào giữa s1.
- Ví du: s1 = "Ault" s2 = "Kelly" --> AuKellylt'''
-str1 = str(input('Please fill string 1: '))
-str2 = str(input('Please fill string 2: '))
-str3 = str(input('Please fill string 3: '))
-print('Ouput: '+ str1+str3+str2)
 
 '''Bài 3: Chuỗi đã cho chứa tổ hợp chữ thường và chữ hoa.
  Viết chương trình sắp xếp các ký tự của một chuỗi sao cho tất cả các chữ cái viết thường sẽ xuất hiện trước.
